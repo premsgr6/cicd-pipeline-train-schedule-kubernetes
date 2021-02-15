@@ -1,7 +1,7 @@
 {
 	"trains": [
 		{
-			"name": "TELANAGANA EXPRESS",
+			"name": "Hogwarts Express",
 			"stops": [
 				{
 					"station": "Sycamore",
@@ -18,7 +18,7 @@
 			]
 		},
 		{
-			"name": "RAJDHANI EXPRESS",
+			"name": "Flying Scotsman",
 			"stops": [
 				{
 					"station": "Pine",
@@ -37,7 +37,7 @@
 			]
 		},
 		{
-			"name": "CHARMINAR EXPRESS",
+			"name": "Orient Express",
 			"stops": [
 				{
 					"station": "Sycamore",
@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			"name": "GODAVARI EXPRESS",
+			"name": "Golden Arrow",
 			"stops": [
 				{
 					"station": "Cypress",
